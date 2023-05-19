@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<Pane fx:id="dialog" layoutY="25.0" prefHeight="199.0" prefWidth="360.0" visible="false" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="is.hi.ludo.utlit.DialogPaneController">
+         <children>
+            <VBox layoutX="5.0" layoutY="-19.0" prefHeight="215.0" prefWidth="360.0">
+               <children>
+            <TextArea editable="false" prefHeight="210.0" prefWidth="360.0" text="Lúdó er einfalt spil og flestir krakkar þekkja leikreglurnar. &#10;Leikurinn gengur út á það að koma peðum sínum sem fyrst í mark. &#10;Hver leikmaður hefur fjögur peð, öll í sama lit.&#10; Engir tveir þátttakendur hafa sama lit á peðum. &#10;Til að koma fyrsta peði sínu inn á spilaborðið þarf að fá töluna &#10;6 á teningnum (aðeins einn teningur er notaður). &#10;Ef leikmaður fær aftur töluna 6 þá getur hann sett annað peð í umferð. &#10;Ef annar leikmaður kemur peði á sama reit getur hann rekið peðið, sem fyrir var, í heimahöfn." />
+               </children>
+            </VBox>
+         </children>
+      </Pane>
