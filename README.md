@@ -1,5 +1,5 @@
 # LudoGameMadeforACourse
-LudoGame desgined for a course in Hí in 2019
+LudoGame desgined
 
 In this project I had to understand and do the following: 
 - Understand the significance of user-centered software development, considering users' roles, tasks, and technology.
